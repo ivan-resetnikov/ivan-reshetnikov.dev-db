@@ -1,0 +1,16 @@
+{
+    "WIP": true,
+    "id": "micro_mechanic_game",
+
+    "title": "Micro-mechanic driven game.",
+    "sub_title": "",
+    "description": "No details can be shared as per the NDA.",
+
+    "date_start": "Dec 1",
+    "date_end": "Present",
+    "preview_image_path": "local://preview.jpg",
+    "cover_css": "background-image: url('local://cover.jpg');",
+
+    "tags": ["algorithm", "playable", "news"],
+    "role_list": ["Lead Gameplay Dev", "Lead Artist", "Gameplay Designer"]
+}

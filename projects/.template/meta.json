@@ -1,0 +1,16 @@
+{
+    "WIP": true,
+    "id": ".template",
+
+    "title": "",
+    "sub_title": "",
+    "description": "",
+
+    "date_start": "",
+    "date_end": "",
+    "preview_image_path": "local://preview.jpg",
+    "cover_css": "background-image: url('local://cover.jpg');",
+
+    "tags": ["algorithm", "playable", "news"],
+    "role_list": ["Programmer", "Artist", "Designer"]
+}

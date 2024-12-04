@@ -1,0 +1,16 @@
+{
+    "WIP": false,
+    "id": "slang_overview",
+
+    "title": "Slang Shading Language Translator Overview",
+    "sub_title": "Platform agnostic shader language | Overview | Adoption",
+    "description": "The Slang Shading Language Translator converts Slang shaders into HLSL, GLSL, or SPIR-V, enabling cross-platform compatibility with DirectX, Vulkan, and OpenGL. It ensures optimized performance and supports advanced features like meta-programming and modular code.",
+
+    "date_start": "Sep 1",
+    "date_end": "Sep 3",
+    "preview_image_path": "local://slang-icon.svg",
+    "cover_css": "background-image: url('https://shader-slang.com/images/slang-example-code.gif'); background-color: #fff;",
+
+    "tags": ["news", "playable"],
+    "role_list": []
+}

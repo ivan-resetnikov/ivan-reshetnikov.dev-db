@@ -1,0 +1,16 @@
+{
+    "WIP": false,
+    "id": "terrain_materials",
+
+    "title": "Terrain blending supporting 4,294,967,296 potential materials",
+    "sub_title": "Terrain blending | Sample conservation",
+    "description": "Terrain blending algorithm that uses colors as index for a LUT of materials, extending the limit of possible materials to more that 4 trillion. Implemented though a custom corner-based blending algorithm, allowing for support of dynamic materials (i.e. not just diffuse + ORM maps, but fully featured custom shaders) making hardware the limit.",
+
+    "date_start": "Sep 1",
+    "date_end": "Sep 3",
+    "preview_image_path": "local://preview.jpg",
+    "cover_css": "background-image: url('local://cover.jpg');",
+
+    "tags": ["algorithm"],
+    "role_list": ["Solo project"]
+}

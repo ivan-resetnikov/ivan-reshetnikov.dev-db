@@ -1,0 +1,16 @@
+{
+    "WIP": true,
+    "id": "space_game",
+
+    "title": "Space game",
+    "sub_title": "",
+    "description": "No details can be shared as per the NDA.",
+
+    "date_start": "Dec 1",
+    "date_end": "Present",
+    "preview_image_path": "local://preview.jpg",
+    "cover_css": "background-image: url('local://cover.jpg');",
+
+    "tags": ["algorithm", "playable", "news"],
+    "role_list": ["Unknown"]
+}

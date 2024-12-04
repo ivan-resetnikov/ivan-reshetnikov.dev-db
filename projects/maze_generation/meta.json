@@ -1,0 +1,16 @@
+{
+    "WIP": false,
+    "id": "maze_generation",
+
+    "title": "Blazingly fast maze generation",
+    "sub_title": "Fixed-step algorithms | Procedural generation",
+    "description": "Procedural maze generation demo, placing the player in a procedural maze generated at startup using an algorithm with fixed amount steps, guarateeing extremely fast load times every time.",
+
+    "date_start": "",
+    "date_end": "",
+    "preview_image_path": "local://preview.jpg",
+    "cover_css": "background-image: url('local://cover.jpg');",
+
+    "tags": ["algorithm", "playable", "news"],
+    "role_list": ["Solo project"]
+}
