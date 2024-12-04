@@ -1,6 +1,5 @@
 {
-    "WIP": false,
-    "id": "maze_generation",
+    "WIP": true,
 
     "title": "Blazingly fast maze generation",
     "sub_title": "Fixed-step algorithms | Procedural generation",

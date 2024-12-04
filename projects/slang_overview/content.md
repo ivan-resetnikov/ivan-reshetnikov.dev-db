@@ -21,7 +21,7 @@ For that you use `-lang glsl` or `-lang hlsl`.
 
 ## Innovation
 Function decorators that are used to specify entrypoints for different shaders (replaces `shader.vs`, `shader.fs`, `shader.gs`, `shader.compute`, etc.)
-![alt text](entrypoints.png)
+![alt text](local://entrypoints.png)
 <span style="font-size: 0.8em; color: gray;">Source: "Slang in Vulkan" by The Khronos Group on [YouTube](https://youtu.be/FCu8BiidI24?si=ueXOJWalgvDG8Bn2&t=943).</span>
 
 ## Useful links
