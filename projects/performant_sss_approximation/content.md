@@ -17,7 +17,7 @@ The technique relies on transmission maps paired with a heavily modified impleme
 
 - **Real-time Capabilities:** This technique is optimized for real-time rendering, ensuring smooth performance even in resource-constrained environments.
 
-- **Versatile Implementation:** A non-demanding implementation that boils down to a modification in the light processor of youre engine's shader pipeline. (Specific to Godot Engine) Designed to work seamlessly with multiple rendering pipelines, including Forward+, Mobile, and Compatibility modes.
+- **Versatile Implementation:** A non-demanding implementation that boils down to a modification in the light processor of your engine's shader pipeline. (Specific to Godot Engine) Designed to work seamlessly with multiple rendering pipelines, including Forward+, Mobile, and Compatibility modes.
 
 - **Minimal Overhead:** The approximation strikes a balance between visual fidelity and computational efficiency.
 
@@ -33,14 +33,14 @@ This solution may be of particular value to projects on such platforms or with s
 
 ![](local://screenshot_0.png)
 
-Here is the end result and what you sholud aim for if you have a different workflow.
+Here is the end result and what you should aim for if you have a different workflow.
 
 ![](local://sss_map_view.png)
 
 ## Example
 
-An example implementation (Godot) in a shading language similar to GLSL is availible [here](https://godotshaders.com/shader/performant-sss-sub-surface-scattering-approximation/).
+An example implementation (Godot) in a shading language similar to GLSL is available [here](https://godotshaders.com/shader/performant-sss-sub-surface-scattering-approximation/).
 
 ## Useful links
-- [Example implemnetation in Godot](https://godotshaders.com/shader/performant-sss-sub-surface-scattering-approximation/)
+- [Example implementation in Godot](https://godotshaders.com/shader/performant-sss-sub-surface-scattering-approximation/)
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
