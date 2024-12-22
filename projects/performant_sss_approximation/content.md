@@ -31,11 +31,11 @@ This solution may be of particular value to projects on such platforms or with s
 
 (Blender) Here is an example node layout of what a baking setup for a transmission-map may look like:
 
-![](local://screenshot_0.png)
+<img src="local://screenshot_0.png" style="width: 100%">
 
 Here is the end result and what you should aim for if you have a different workflow.
 
-![](local://sss_map_view.png)
+<img src="local://sss_map_view.png" style="width: 100%">
 
 ## Example
 
