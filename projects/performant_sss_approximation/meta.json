@@ -7,10 +7,10 @@
     "description": "An approximation of Sub-Surface Scattering for real-time environments.\nImplemented though transmission maps and a heavily modified well-known phong shading model's diffuse implementation\n\n(Godot specific) It works well with every rendering implemnetation (Forward+, Mobile, Compatibility)",
 
     "date_start": "Dec 4",
-    "date_end": "Dec 4",
+    "date_end": "Dec 5",
     "preview_image_path": "local://preview.jpg",
     "cover_css": "background-image: url('local://cover.jpg');",
 
     "tags": ["algorithm"],
-    "role_list": ["Solo project"]
+    "role_list": []
 }
