@@ -2,8 +2,10 @@
 
 Sub-surface scattering (SSS) is a key component in creating realistic materials like skin, wax, and other translucent objects.
 
-<img src="local://preview_16fps.gif" style="max-width: 256px; width: 100%">
-<img src="local://screenshot_1.png" style="max-width: 256px; width: 100%">
+<div style="display: flex; justify-content: center; align-items: center">
+    <img src="local://preview_16fps.gif" style="margin: 2vw; max-width: 256px; width: 100%">
+    <img src="local://screenshot_1.png" style="margin: 2vh; max-width: 256px; width: 100%">
+</div>
 
 ## The problem
 
@@ -31,11 +33,11 @@ This solution may be of particular value to projects on such platforms or with s
 
 (Blender) Here is an example node layout of what a baking setup for a transmission-map may look like:
 
-<img src="local://screenshot_0.png" style="width: 100%">
+<img class="responsive-image" src="local://screenshot_0.png">
 
 Here is the end result and what you should aim for if you have a different workflow.
 
-<img src="local://sss_map_view.png" style="width: 100%">
+<img class="responsive-image" src="local://sss_map_view.png">
 
 ## Example
 
