@@ -2,8 +2,8 @@
 
 Sub-surface scattering (SSS) is a key component in creating realistic materials like skin, wax, and other translucent objects.
 
-<img src="local://preview_16fps.gif" width=256>
-<img src="local://screenshot_1.png" height=256>
+<img src="local://preview_16fps.gif" style="max-width: 256px; width: 100%">
+<img src="local://screenshot_1.png" style="max-width: 256px; width: 100%">
 
 ## The problem
 
