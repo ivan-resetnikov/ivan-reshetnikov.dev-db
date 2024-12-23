@@ -1,0 +1,1 @@
+ivan-reshetnikov.dev DB (https://github.com/ivan-resetnikov/ivan-reshetnikov.dev-db/) by Ivan Reshetnikov is licensed under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
